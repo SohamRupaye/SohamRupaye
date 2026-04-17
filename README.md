@@ -21,8 +21,8 @@
  
 | Project | Description |
 |--------|-------------|
-| [**LaunchKit**](https://github.com/SohamRupaye/LaunchKit) | A starter kit to launch projects quickly with pre-configured tooling and setup. |
-| [**AuthKit**](https://github.com/SohamRupaye/AuthKit) | A ready-to-use authentication kit for web applications. |
+| [**LaunchKit**](https://github.com/SohamRupaye/LaunchKit) | Generate production-ready infrastructure from a single config file. |
+| [**AuthKit**](https://github.com/SohamRupaye/AuthKit) | Production-ready FastAPI authentication framework with clean, extensible architecture. |
 | [**Fullstack Template**](https://github.com/SohamRupaye/fullstack-template) | A full-stack project template monorepo setup. |
 | [**Template Expo**](https://github.com/SohamRupaye/template-expo) | A React Native (Expo) starter template for building mobile apps. |
  
