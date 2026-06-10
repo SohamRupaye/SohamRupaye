@@ -24,6 +24,7 @@ SIH 2024 Winner ISRO track · IIT Jodhpur E-Conclave 1st Place<br>
 
 | Project | Description |
 |--------|-------------|
+| [**Kairos**](https://github.com/SohamRupaye/AI-OS) | AI chat workspace with branching conversations, tiered context management, and an automatic knowledge graph. |
 | [**Infrawatch**](https://github.com/SohamRupaye/Infrawatch) | Self-hosted infra monitoring in Go — goroutine health polling, circuit breakers, state machines, TimescaleDB, multi-channel alerting. |
 | [**LaunchKit**](https://github.com/SohamRupaye/LaunchKit) | Auto-detects project structure and generates production-ready Dockerfiles, K8s manifests, CI/CD pipelines, and Nginx configs. |
 | [**AuthKit**](https://github.com/SohamRupaye/AuthKit) | Production-ready FastAPI authentication framework with clean, extensible architecture. |
