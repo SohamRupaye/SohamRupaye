@@ -16,7 +16,7 @@ SIH 2024 Winner ISRO track · IIT Jodhpur E-Conclave 1st Place<br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SohamRupaye&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak"  />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" height="150" alt="GitHub Streak" /></a>
   <img src="./profile/stats.svg" height="150" />
 </div>
 
